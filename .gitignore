@@ -1,0 +1,6 @@
+/vendor/
+/config/firebase-credentials.json
+*.log
+*.pem
+*.ppk
+.env
