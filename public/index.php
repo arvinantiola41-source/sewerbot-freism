@@ -225,42 +225,14 @@ session_start();
     <!-- Group Members -->
     <div class="members-section">
         <div class="members-heading">GROUP MEMBERS</div>
-        <div class="members-grid">
+        <div class="members-grid" style="grid-template-columns:1fr; max-width:220px; margin:0 auto;">
 
-            <!-- Member 1 — replace name and photo -->
+            <!-- Member 1 -->
             <div class="member-card">
                 <div class="member-photo">
-                    <!-- <img src="members/member1.jpg" alt="Member 1"> -->
-                    👤
+                    <img src="members/member1.jpg" alt="Arvin M. Antiola">
                 </div>
-                <div class="member-name">Member 1 Full Name</div>
-            </div>
-
-            <!-- Member 2 -->
-            <div class="member-card">
-                <div class="member-photo">
-                    <!-- <img src="members/member2.jpg" alt="Member 2"> -->
-                    👤
-                </div>
-                <div class="member-name">Member 2 Full Name</div>
-            </div>
-
-            <!-- Member 3 -->
-            <div class="member-card">
-                <div class="member-photo">
-                    <!-- <img src="members/member3.jpg" alt="Member 3"> -->
-                    👤
-                </div>
-                <div class="member-name">Member 3 Full Name</div>
-            </div>
-
-            <!-- Member 4 -->
-            <div class="member-card">
-                <div class="member-photo">
-                    <!-- <img src="members/member4.jpg" alt="Member 4"> -->
-                    👤
-                </div>
-                <div class="member-name">Member 4 Full Name</div>
+                <div class="member-name">Arvin M. Antiola</div>
             </div>
 
         </div>
